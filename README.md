@@ -1,4 +1,6 @@
 # Project-Earth
-Interactive Earth Visualization App
+<p align="center">
+  <img src="https://github.com/taehyunnkim/project-earth/blob/master/project-preview.gif" alt="preview"/>
+</p>
 
-https://www.erickim.dev/Project-Earth/
+Interactive Earth Visualization App
